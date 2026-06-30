@@ -104,40 +104,6 @@ a {
   height: fit-content;
 }
 
-.titlebar {
-  background: var(--bg-titlebar);
-  color: #fff;
-  font-size: 13px;
-  font-weight: 600;
-  padding: 8px 12px;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  border-bottom: 1px solid var(--border-titlebar);
-}
-
-.titlebar-buttons {
-  display: flex;
-  gap: 4px;
-}
-
-.titlebar-btn {
-  width: 22px;
-  height: 18px;
-  background: var(--bg-titlebtn);
-  border: 1px solid var(--border-window);
-  color: var(--text-input);
-  font-size: 11px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.titlebar-btn.close {
-  background: #d9534f;
-  color: #fff;
-  border-color: #a83d3a;
-}
-
 .content {
   padding: 28px 32px;
 }

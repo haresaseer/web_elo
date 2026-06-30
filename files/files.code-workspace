@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "files",
+			"path": "../../../../claude/files"
+		},
+		{
+			"name": "web_elo",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}

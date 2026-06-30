@@ -131,15 +131,6 @@ export default function Home() {
   return (
     <div className="app-shell">
       <div className="window">
-        <div className="titlebar">
-          <span>web-elo — player stat card generator</span>
-          <div className="titlebar-buttons">
-            <div className="titlebar-btn">_</div>
-            <div className="titlebar-btn">▢</div>
-            <div className="titlebar-btn close">✕</div>
-          </div>
-        </div>
-
         <div className="content">
           <div className="top-row">
             <div>
